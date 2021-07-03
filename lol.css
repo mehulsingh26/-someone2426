@@ -1,0 +1,182 @@
+a:link {
+	text-decoration: none;
+}
+body {    
+    margin: 0px;
+    padding: 0px ;
+    background: #171717;
+    background-repeat: round;
+
+}
+
+.head {
+	text-align: left;
+	margin: 0px;
+	font-size: 20px;
+	padding:10px;
+	padding-left: 80px;
+	color: black;
+	font-family: Franklin Gothic;
+	  background-color: whitesmoke;
+	  margin-bottom: 25px;
+}
+
+.head:hover {
+	color: indianred;
+
+}
+.header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color:#171717 ;
+  height: 110px;
+	
+	
+}
+
+.shalu {
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: bahnschrift;
+	color: whitesmoke;
+	background-color: indianred;
+}
+
+.shalut {
+	padding-top: 10px;
+}
+
+.shalua{
+	margin-left: -15px ;
+	margin-top: -26px;
+}
+
+.anshul {
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: bahnschrift;
+	color: whitesmoke;
+	background-color: burlywood;
+	margin-top: -30px;
+}
+
+.anshult {
+	padding-top: 10px;
+}
+
+.anshula{
+	margin-left: -15px ;
+	margin-top: -26px;
+}
+
+.vaishali {
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: bahnschrift;
+	color: whitesmoke;
+	background-color: lightpink;
+	margin-top: -30px;
+}
+
+.vaishalit {
+	padding-top: 10px;
+}
+
+.vaishalia{
+	margin-left: -15px ;
+	margin-top: -26px;
+}
+
+.mehul {
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: bahnschrift;
+	color: whitesmoke;
+	background-color: indianred;
+	margin-top: -30px;
+}
+
+.mehult {
+	padding-top: 10px;
+}
+
+.mehula{
+	margin-left: -15px ;
+	margin-top: -26px;
+}
+
+.khushi {
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: bahnschrift;
+	color: whitesmoke;
+	background-color: burlywood;
+	margin-top: -30px;
+}
+
+.khushit {
+	padding-top: 10px;
+}
+
+.khushia{
+	margin-left: -15px ;
+	margin-top: -26px;
+}
+
+.daksh {
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: bahnschrift;
+	color: whitesmoke;
+	background-color: lightpink;
+	margin-top: -30px;
+}
+
+.daksht {
+	padding-top: 10px;
+}
+
+.daksha{
+	margin-left: -15px ;
+	margin-top: -26px;
+}
+
+.vansh {
+	padding-left: 30px;
+	font-size: 30px;
+	font-family: bahnschrift;
+	color: whitesmoke;
+	background-color: indianred;
+	margin-top: -30px;
+}
+
+.vansht {
+	padding-top: 10px;
+}
+
+.vansha{
+	margin-left: -15px ;
+	margin-top: -26px;
+}
+
+
+.meri{
+  background-color:whitesmoke ;
+  width: 400px;
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  font-size: 30px;
+  font-family: Berlin Sans FB;
+  border-radius:840px;
+  margin-left: 200px;
+
+}
+
+.meri:hover {
+	background-color: indianred;
+	color: whitesmoke;
+	cursor: pointer;
+
+}
